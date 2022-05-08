@@ -1,16 +1,3 @@
 # dm_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/59228910/167290377-641aacdd-58db-4687-b8dc-d9304caf93cd.png)
+![image](https://user-images.githubusercontent.com/59228910/167290384-a91751d7-f66f-4537-a866-3b3442463e4a.png)
